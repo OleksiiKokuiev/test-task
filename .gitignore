@@ -1,0 +1,16 @@
+build
+
+### IntelliJ IDEA ###
+.idea_
+*.iws
+*.iml
+*.ipr
+*.log
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+.idea
